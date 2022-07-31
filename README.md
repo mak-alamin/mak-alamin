@@ -7,7 +7,10 @@ companies worldwide. I'm very passionate with web
 development and highly interested in improving my career
 in this field.
 
-Skills: PHP / WordPress / REACT / JS / HTML / CSS
+#### Skills & Experience:
+✔ PHP / MySQL / WordPress
+✔ JS / REACT / JQuery
+✔ HTML / CSS / Bootstrap / Tailwind
 
 - 🔭 I’m currently working on some MERN stack projects 
 - 🌱 I’m currently learning MERN stack development 
