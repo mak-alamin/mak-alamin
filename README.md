@@ -14,10 +14,10 @@ in this field.
 ✔ JS / REACT / JQuery <br>
 ✔ HTML / CSS / Bootstrap / Tailwind <br>
 
-🔭 I’m currently working on some MERN stack projects 
-🌱 I’m currently learning MERN stack development 
-💬 Ask me about your project. 
-📫 How to reach me: makalamin012@gmail.com 
+🔭 I’m currently working on some MERN stack projects <br>
+🌱 I’m currently learning MERN stack development <br>
+💬 Ask me about your project. <br>
+📫 How to reach me: makalamin012@gmail.com
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mak-alamin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mak-alamin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mak_alamin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/mak-alamin)  
