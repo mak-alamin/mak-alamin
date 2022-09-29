@@ -10,12 +10,13 @@ development and highly interested in improving my career
 in this field.
 
 ### Skills & Experience:
-✔ PHP / MySQL / WordPress <br>
-✔ JS / REACT / JQuery <br>
+✔ PHP / Laravel / WordPress <br>
+✔ JS / REACT / jQuery <br>
 ✔ HTML / CSS / Bootstrap / Tailwind <br>
+✔ MERN Stack Development <br>
 
-🔭 I’m currently working on some MERN stack projects <br>
-🌱 I’m currently learning MERN stack development <br>
+🔭 I’m currently working on some MERN stack projects. <br>
+🌱 I’m currently working on some useful WordPress Plugins and Themes. <br>
 💬 Ask me about your project. <br>
 📫 How to reach me: makalamin012@gmail.com
 
