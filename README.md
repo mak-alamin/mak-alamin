@@ -16,9 +16,9 @@ Dedicated to mastering the ever-evolving realm of software development.
 🔭 I’m currently working on some MERN stack projects. <br>
 🌱 I’m currently working on some useful WordPress Plugins and Themes. <br>
 💬 Ask me about your project. <br>
-📫 Email me: makalamin012@gmail.com
-💬 DM me at Skype: live:makalamin012 
-    Or, WhatsApp: +880 1739 530 410
+📫 Email me: makalamin012@gmail.com <br>
+💬 DM me at Skype: live:makalamin012 <br>
+💬 WhatsApp: +880 1739 530 410
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mak-alamin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mak-alamin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mak_alamin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/mak-alamin)  
