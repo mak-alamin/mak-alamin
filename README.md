@@ -1,15 +1,13 @@
-### Hi there 👋, I'm Mak Alamin.
+### Hi there 👋, this is Mak Alamin.
 #### I'm a full stack web developer.
 
-![I am GitHub Readme Generator's creator](https://i.ibb.co/Tr9k584/mak-alamin-web-developer.png)
-
-Currently I'm working online for clients and companies worldwide and looking for great opportunities. 
-I'm an enthusiastic developer with a keen focus on backend technologies and a strong interest in the latest AI innovations. 
-Dedicated to mastering the ever-evolving realm of software development.
+Currently I'm working online as a full stack web developer for clients and companies worldwide. 
+I'm an enthusiastic developer with a keen focus on modern web technologies and a strong interest in the latest AI innovations. 
+Dedicated to mastering the ever-evolving realm of software development and looking for great opportunities.
 
 ### Skills & Experience:
-✔ PHP / Laravel / WordPress <br>
-✔ JS / REACT / jQuery <br>
+✔ PHP / WordPress / Laravel <br>
+✔ JS / TS / REACT / jQuery <br>
 ✔ HTML / CSS / Bootstrap / Tailwind <br>
 ✔ MERN Stack Development <br>
 
