@@ -14,7 +14,8 @@ Dedicated to mastering the ever-evolving realm of software development.
 ✔ MERN Stack Development <br>
 
 🔭 I’m currently working on some MERN stack projects. <br>
-🌱 I’m currently working on some useful WordPress Plugins and Themes. <br>
+🌱 I’m currently working on some WordPress Plugins and Themes. <br>
+
 💬 Ask me about your project. <br>
 📫 Email me: makalamin012@gmail.com <br>
 💬 DM me at Skype: live:makalamin012 <br>
