@@ -24,10 +24,4 @@ Dedicated to mastering the ever-evolving realm of software development and looki
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mak-alamin)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mak-alamin&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mak-alamin)  
-
-![Profile views](https://gpvc.arturio.dev/mak-alamin)  
-
 
