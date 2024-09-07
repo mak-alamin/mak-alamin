@@ -1,4 +1,4 @@
-### Hi there 👋, this is Mak Alamin.
+### Hi there 👋, I'm Mak Alamin.
 #### I'm a full stack web developer.
 
 Currently I'm working online as a full stack web developer for clients and companies worldwide. 
