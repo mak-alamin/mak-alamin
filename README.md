@@ -1,4 +1,4 @@
-## Hi there 👋, My name is Md. Abul Kazim Alamin also known as ( Mak Alamin ).
+## Hi there 👋, I'm Md. Abul Kazim Alamin also known as ( Mak Alamin ).
 ### I'm a full stack web developer.
 
 Currently I'm working online as a full stack web developer for clients and companies worldwide. 
