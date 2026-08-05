@@ -1,5 +1,5 @@
 ## Hi there 👋,
-### My name is Md. Abul Kazim Alamin (MAK Alamin). I'm a professional Web & Backend Developer.
+### My name is Md. Abul Kazim Alamin. I'm a professional Web & Backend Developer.
 
 Currently, I work in web development projects focusing on backend development for clients and companies worldwide.  
 I'm an enthusiastic developer with a strong focus on modern web technologies and a growing interest in the latest AI innovations.  
