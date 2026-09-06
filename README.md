@@ -12,7 +12,7 @@ I'm dedicated to mastering the ever-evolving world of software development and a
 ✔ HTML / CSS / Tailwind <br>  
 ✔ REST API / GraphQL <br>
 ✔ Git / Github <br>
-✔ AI Automation / Claude / ChatGPT <br><br>
+✔ AI Automation / Claude / ChatGPT / n8n <br><br>
 
 🔭 My core expertise is WordPress website development, custom plugin and theme development, which is how I make a living. <br>  
 🌱 I also have solid experience with Laravel, React.js, MySQL, PostgreSQL, and custom web development. <br><br>  
